@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🔭 I’m currently working on my own Smart-Home-System!
 
 <!--
 **FrodoBeutlinAliasLeon/FrodoBeutlinAliasLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
