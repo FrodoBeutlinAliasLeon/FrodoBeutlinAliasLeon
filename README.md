@@ -1,17 +1,19 @@
-## Hi there 👋
-- 🔭 I’m currently working on my own Smart-Home-System!
+# Hey, I'm Leon 👋
 
-<!--
-**FrodoBeutlinAliasLeon/FrodoBeutlinAliasLeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the **University of Tübingen**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm working on:
+
+** 🤖 [SmartHome](https://github.com/FrodoBeutlinAliasLeon/SmartHome)** — A self-built smart home system combining AI voice control, Raspberry Pi hardware, and automated lighting. Features include speech-to-text, intent classification, an agentic workflow via LangGraph agents, and a Flask-based web interface for device control.
+
+### 🤝 Contributions
+
+**🐳 [Orca](https://github.com/orca-agent/orca)** — Contributed to this project as part of a university team project at the University of Tübingen.
+
+### 🎓 About me
+
+- 📍 Based in Tübingen, Germany
+- 🎓 B.Sc. Computer Science — University of Tübingen
+- 💡 Interests: AI, home automation, privacy, networking, self-hosted infrastructure
