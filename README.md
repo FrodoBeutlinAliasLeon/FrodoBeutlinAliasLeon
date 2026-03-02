@@ -6,7 +6,7 @@ Computer Science student at the **University of Tübingen**.
 
 ### 🔭 What I'm working on:
 
-** 🤖 [SmartHome](https://github.com/FrodoBeutlinAliasLeon/SmartHome)** — A self-built smart home system combining AI voice control, Raspberry Pi hardware, and automated lighting. Features include speech-to-text, intent classification, an agentic workflow via LangGraph agents, and a Flask-based web interface for device control.
+**🤖 [SmartHome](https://github.com/FrodoBeutlinAliasLeon/SmartHome)** — A self-built smart home system combining AI voice control, Raspberry Pi hardware, and automated lighting. Features include speech-to-text, intent classification, an agentic workflow via LangGraph agents, and a Flask-based web interface for device control.
 
 ### 🤝 Contributions
 
