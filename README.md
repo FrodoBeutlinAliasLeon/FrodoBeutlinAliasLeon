@@ -10,7 +10,7 @@ Computer Science student at the **University of Tübingen**.
 
 ### 🤝 Contributions
 
-**🐳 [Orca](https://github.com/orca-agent/orca)** — Contributed to this project as part of a university team project at the University of Tübingen.
+**🐳 [Orca](https://github.com/minionrt/orca)** — Contributed to this project as part of a university team project at the University of Tübingen.
 
 ### 🎓 About me
 
