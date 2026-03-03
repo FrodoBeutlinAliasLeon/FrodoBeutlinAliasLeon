@@ -1,6 +1,5 @@
-<h1 align="center">Hey, I'm Leon 👋</h1>
-<p align="center">Computer Science student at the <b>University of Tübingen</b></p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9d00,100:ff4d00&height=250&section=header&text=Hey,%20I'm%20Leon&desc=Computer%20Science%20student%20at-nl-%20University%20of%20Tübingen%20🎓&descSize=30&descAlign=70&fontSize=90&descAlignY=55&fontAlignY=30" align="center" /></p>
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -16,13 +15,13 @@
 
 ---
 
-### What I'm working on:
-**🤖 [SmartHome](https://github.com/FrodoBeutlinAliasLeon/SmartHome)** - A self-built smart home system combining AI voice control, Raspberry Pi hardware, and automated lighting (etc.). Features include speech-to-text, intent classification, an agentic workflow via LangChain agents, and a Flask-based web interface for device control.
+### What I'm working on
+- **🤖 [SmartHome](https://github.com/FrodoBeutlinAliasLeon/SmartHome)** - A self-built smart home system combining AI voice control, Raspberry Pi hardware, and automated lighting (etc.). Features include speech-to-text, intent classification, an agentic workflow via LangChain agents, and a Flask-based web interface for device control.
 
-### Contributions:
-**🐳 [Orca](https://github.com/minionrt/orca)** - Contributed to this project as part of a university team project at the University of Tübingen.
+### Contributions
+- **🐳 [Orca](https://github.com/minionrt/orca)** - Contributed to this project as part of a university team project at the University of Tübingen.
 
-**🔥 [Burn!](https://github.com/Vogelmensch/Burn)** - Contributed to this project as part of a university module at the University of Tübingen.
+- **🔥 [Burn!](https://github.com/Vogelmensch/Burn)** - Contributed to this project as part of a university module at the University of Tübingen.
 
 ### About me
 - 📍 Based in Tübingen, Germany
