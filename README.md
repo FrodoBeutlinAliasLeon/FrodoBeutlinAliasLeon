@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Leon 👋</h1>
-<p align="center">Computer Science student at the <b>University of Tübingen</b> 🎓</p>
+<p align="center">Computer Science student at the <b>University of Tübingen</b></p>
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
@@ -27,4 +27,4 @@
 ### About me
 - 📍 Based in Tübingen, Germany
 - 🎓 B.Sc. Computer Science — University of Tübingen
-- 💡 Interests: AI, home automation, privacy, networking, self-hosted infrastructure
+- 💡 Interests: AI, home automation, network-security, self-hosted infrastructure
