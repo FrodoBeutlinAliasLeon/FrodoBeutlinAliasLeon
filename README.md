@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9d00,100:ff4d00&height=250&section=header&text=Hey,%20I'm%20Leon&desc=Computer%20Science%20student%20at-nl-%20University%20of%20Tübingen%20🎓&descSize=30&descAlign=70&fontSize=90&descAlignY=55&fontAlignY=30" align="center" /></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9d00,100:ff4d00&height=200&section=header&text=Hey,%20I'm%20Leon&desc=Computer%20Science%20student%20at-nl-%20University%20of%20Tübingen%20🎓&descSize=25&descAlign=70&fontSize=80&descAlignY=55&fontAlignY=30" align="center" /></p>
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
