@@ -27,3 +27,7 @@
 - 📍 Based in Tübingen, Germany
 - 🎓 B.Sc. Computer Science — University of Tübingen
 - 💡 Interests: AI, home automation, network-security, self-hosted infrastructure
+
+![Snake animation](https://github.com/FrodoBeutlinAliasLeon/FrodoBeutlinAliasLeon/blob/output/github-contribution-grid-snake.svg)
+
+
