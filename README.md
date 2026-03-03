@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Leon 👋</h1>
-<p align="center">Computer Science student at the <b>University of Tübingen</b></p>
+<p align="center">Computer Science student at the <b>University of Tübingen</b> 🎓</p>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
@@ -16,15 +16,15 @@
 
 ---
 
-### 🔭 What I'm working on:
+### What I'm working on:
 **🤖 [SmartHome](https://github.com/FrodoBeutlinAliasLeon/SmartHome)** - A self-built smart home system combining AI voice control, Raspberry Pi hardware, and automated lighting (etc.). Features include speech-to-text, intent classification, an agentic workflow via LangChain agents, and a Flask-based web interface for device control.
 
-### 🤝 Contributions
+### Contributions:
 **🐳 [Orca](https://github.com/minionrt/orca)** - Contributed to this project as part of a university team project at the University of Tübingen.
 
 **🔥 [Burn!](https://github.com/Vogelmensch/Burn)** - Contributed to this project as part of a university module at the University of Tübingen.
 
-### 🎓 About me
+### About me
 - 📍 Based in Tübingen, Germany
 - 🎓 B.Sc. Computer Science — University of Tübingen
 - 💡 Interests: AI, home automation, privacy, networking, self-hosted infrastructure
