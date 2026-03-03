@@ -28,6 +28,6 @@
 - 🎓 B.Sc. Computer Science — University of Tübingen
 - 💡 Interests: AI, home automation, network-security, self-hosted infrastructure
 
-![Snake animation](https://github.com/FrodoBeutlinAliasLeon/FrodoBeutlinAliasLeon/blob/output/github-contribution-grid-snake.svg)
 
+![github-snake](https://raw.githubusercontent.com/FrodoBeutlinAliasLeon/FrodoBeutlinAliasLeon/output/github-snake-dark.svg)
 
