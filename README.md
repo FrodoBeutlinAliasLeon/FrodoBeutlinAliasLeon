@@ -29,5 +29,5 @@
 - 💡 Interests: AI, home automation, network-security, self-hosted infrastructure
 
 
-![github-snake](https://raw.githubusercontent.com/FrodoBeutlinAliasLeon/FrodoBeutlinAliasLeon/output/github-snake-dark.svg)
+![github-snake](https://github.com/FrodoBeutlinAliasLeon/FrodoBeutlinAliasLeon/blob/output/github-contribution-grid-snake.svg)
 
